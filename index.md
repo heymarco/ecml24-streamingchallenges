@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Navigating Complex Machine Learning Challenges in Streaming Data - A Hands-On Tutorial
 ---
 
 ## Overview
