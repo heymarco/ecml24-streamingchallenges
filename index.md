@@ -17,7 +17,7 @@ Our goal is to discuss the theoretical concepts behind these topics, and present
 
 ## Organizers
 
-**Heitor Murilo Gomes** is a senior lecturer at the Victoria University of Wellington (VuW) in New Zealand. Before joining VuW, Heitor was a senior research fellow and co-director of the AI Institute at the University of Waikato were he taught from 2020 to 2022 the ``data stream mining`` (COMPX523) course.
+**Heitor Murilo Gomes** is a senior lecturer at the Victoria University of Wellington (VuW) in New Zealand. Before joining VuW, Heitor was a senior research fellow and co-director of the AI Institute at the University of Waikato were he taught from 2020 to 2022 the "data stream mining" (COMPX523) course.
 Heitor's main research area is the application of machine learning for data streams in a variety of tasks.
 ([website](https://heitorgomes.com/))
 
