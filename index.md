@@ -34,3 +34,22 @@ decision making under uncertainty. More specifically, his re-
 search interests include unsupervised concept drift detection
 and adaptation, incremental decision trees, and multi-armed
 bandits. ([website](https://heymarco.github.io))
+
+## Materials
+### Slides
+Please find the slides of our tutorial here:
+* [Introduction](/files/slides/0_Introduction.pdf)
+* [Supervised Learning](/files/slides/1_Supervised_Learning.pdf)
+* [Concept Drift](/files/slides/2_Concept_Drift.pdf)
+* [Pipelines](/files/slides/3_Pipelines.pdf)
+* [AutoML](/files/slides/4_AutoML.pdf)
+* [Other Topics](/files/slides/5_Other_topics.pdf)
+
+### Notebooks
+And here are the notebooks for you to download:
+* [Introduction](/files/notebooks/01_ECML2024_introduction.ipynb)
+* [Supervised Learning](/files/notebooks/02_ECML2024_supervised.ipynb)
+* [Concept Drift](/files/notebooks/03_ECML2024_drift.ipynb)
+* [Pipelines](/files/notebooks/04_ECML2024_pipelines.ipynb)
+* [AutoML](/files/notebooks/05_ECML2024_automl.ipynb)
+* [Other Topics](/files/notebooks/06_ECML2024_other.ipynb)
